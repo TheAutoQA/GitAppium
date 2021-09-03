@@ -9,5 +9,6 @@ public class BrowserTest {
 		System.out.println("Test Firefox browser");
 		System.out.println("Test safari browser");
 		System.out.println("Test all browsers");
+		System.out.println("Test all browser324242");
 	}
 }

@@ -39,5 +39,6 @@ public class AppTest
     public void newtest()
     {
     	System.out.println("This is added by GitB");
+    	System.out.println("This is added by GitB");
     }
 }

@@ -35,4 +35,9 @@ public class AppTest
     {
         assertTrue( true );
     }
+
+    public void newtest()
+    {
+    	System.out.println("This is added by GitB");
+    }
 }

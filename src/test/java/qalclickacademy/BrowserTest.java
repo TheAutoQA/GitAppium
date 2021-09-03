@@ -11,4 +11,16 @@ public class BrowserTest {
 		System.out.println("Test all browsers");
 		System.out.println("Test all browser324242");
 	}
+public void Test2()
+{
+	System.out.println("This is for adding Test1");
+	System.out.println("This is for adding Test2");
+	System.out.println("This is for adding Test3");
+	}
+	
+	
+	
 }
+
+
+

@@ -41,4 +41,9 @@ public class AppTest
     	System.out.println("This is added by GitB");
     	System.out.println("This is added by GitB");
     }
+    
+    public void AddTest()
+    {
+    	System.out.println("This is for new Test");
+    }
 }

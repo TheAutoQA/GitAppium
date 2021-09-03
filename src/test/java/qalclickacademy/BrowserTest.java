@@ -18,6 +18,12 @@ public void Test2()
 	System.out.println("This is for adding Test3");
 	}
 	
+public void Test3()
+{
+	System.out.println("This is for adding Test4");
+	System.out.println("This is for adding Test5");
+	System.out.println("This is for adding Test6");
+}
 	
 	
 }
